@@ -1,8 +1,17 @@
 name: countries_info
 description: An opinionated library to query information on countries. Apply complex search logic quickly and easily using cascade search filters.
 
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/0xdir/countries_info_dart
+
+funding:
+  - https://github.com/sponsors/0xdir
+topics:
+  - data
+  - search
+  - offline
+  - humanitarian
+  - cascade
 
 environment:
   sdk: ^3.0.0
