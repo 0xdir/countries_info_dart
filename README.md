@@ -107,6 +107,8 @@ Submit an issue on [github].
 
 
 ## This work builds upon:
+1. [REST Countries]
+2. [Sealed Countries]
 [REST Countries]: https://restcountries.com/
 [Sealed Countries]: https://pub.dev/packages/sealed_countries
 Do check out their projects too!
